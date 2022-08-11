@@ -1,0 +1,9 @@
+{
+    "DATALOADER": {
+        "ASPECT_RATIO_GROUPING": true,
+        "FILTER_EMPTY_ANNOTATIONS": true,
+        "NUM_WORKERS": 2,
+        "REPEAT_THRESHOLD": 0.0,
+        "SAMPLER_TRAIN": "TrainingSampler"
+    }
+}
